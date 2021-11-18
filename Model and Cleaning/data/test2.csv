@@ -1,0 +1,193 @@
+province,house_type,price
+1,Campsite,1000.0
+1,Cycladic house,100.0
+1,Entire bungalow,1115.75
+1,Entire cabin,515.6666666666666
+1,Entire chalet,993.1666666666666
+1,Entire condominium (condo),497.79487179487177
+1,Entire guest suite,290.0
+1,Entire guesthouse,543.0
+1,Entire loft,908.3333333333334
+1,Entire place,1500.0
+1,Entire rental unit,551.8347338935574
+1,Entire residential home,362.0
+1,Entire serviced apartment,863.375
+1,Entire townhouse,1800.0
+1,Entire villa,3196.3783783783783
+1,Farm stay,1234.0
+1,Hut,1000.0
+1,Private room,450.0
+1,Private room in bed and breakfast,267.6666666666667
+1,Private room in casa particular,264.0
+1,Private room in chalet,649.5
+1,Private room in condominium (condo),221.6
+1,Private room in earth house,98.0
+1,Private room in guest suite,143.0
+1,Private room in guesthouse,300.0
+1,Private room in hostel,800.0
+1,Private room in loft,124.0
+1,Private room in rental unit,641.8461538461538
+1,Private room in residential home,353.5
+1,Private room in resort,1266.6666666666667
+1,Private room in serviced apartment,151.25
+1,Private room in villa,2350.0
+1,Riad,2000.0
+1,Room in aparthotel,248.85714285714286
+1,Room in boutique hotel,150.0
+1,Room in hotel,1139.9130434782608
+1,Shared room in rental unit,137.5
+1,Tiny house,3875.0
+2,Barn,1300.0
+2,Camper/RV,3000.0
+2,Campsite,1420.4
+2,Casa particular,482.5
+2,Earth house,895.0
+2,Entire bungalow,1200.0
+2,Entire chalet,1150.0444444444445
+2,Entire condominium (condo),425.25
+2,Entire cottage,1375.0
+2,Entire guest suite,655.0769230769231
+2,Entire guesthouse,898.25
+2,Entire home/apt,900.0
+2,Entire loft,549.1875
+2,Entire place,638.4
+2,Entire rental unit,493.9471032745592
+2,Entire residential home,321.14285714285717
+2,Entire serviced apartment,552.66
+2,Entire townhouse,1496.0
+2,Entire villa,2370.0625
+2,Farm stay,2099.375
+2,Holiday park,900.0
+2,Private room in bed and breakfast,301.3333333333333
+2,Private room in bungalow,188.0
+2,Private room in casa particular,82.0
+2,Private room in chalet,2477.25
+2,Private room in condominium (condo),394.0
+2,Private room in earth house,300.0
+2,Private room in farm stay,2000.0
+2,Private room in guest suite,211.5
+2,Private room in rental unit,336.42105263157896
+2,Private room in residential home,5625.0
+2,Private room in resort,961.6363636363636
+2,Private room in serviced apartment,398.5
+2,Private room in tent,188.0
+2,Private room in tiny house,200.0
+2,Ranch,2500.0
+2,Riad,1500.0
+2,Room in aparthotel,564.6666666666666
+2,Room in boutique hotel,706.5
+2,Room in hotel,467.57142857142856
+2,Shared room in bed and breakfast,102.0
+2,Shared room in condominium (condo),100.0
+2,Shared room in farm stay,1000.0
+2,Shared room in rental unit,525.0
+2,Tent,1987.5
+2,Tiny house,1466.75
+3,Camper/RV,250.0
+3,Entire bungalow,571.0
+3,Entire chalet,1863.2857142857142
+3,Entire condominium (condo),384.9
+3,Entire guesthouse,102.0
+3,Entire loft,403.8333333333333
+3,Entire place,869.0
+3,Entire rental unit,506.2
+3,Entire residential home,678.6666666666666
+3,Entire serviced apartment,1048.8055555555557
+3,Entire villa,1250.0
+3,Farm stay,1225.0
+3,Lighthouse,545.0
+3,Private room in condominium (condo),112.25
+3,Private room in guest suite,235.0
+3,Private room in loft,199.0
+3,Private room in rental unit,379.36842105263156
+3,Private room in residential home,223.33333333333334
+3,Private room in resort,4933.666666666667
+3,Private room in serviced apartment,967.625
+3,Private room in townhouse,350.0
+3,Private room in villa,375.0
+3,Room in aparthotel,341.57142857142856
+3,Room in hotel,970.0
+3,Shared room in rental unit,87.66666666666667
+3,Shared room in residential home,200.0
+4,Camper/RV,970.0
+4,Campsite,500.0
+4,Earth house,500.0
+4,Entire chalet,1005.5555555555555
+4,Entire condominium (condo),226.75
+4,Entire guest suite,125.0
+4,Entire guesthouse,650.0
+4,Entire loft,664.0
+4,Entire rental unit,400.07547169811323
+4,Entire residential home,1600.0
+4,Entire serviced apartment,474.2857142857143
+4,Entire villa,1014.3333333333334
+4,Farm stay,1441.6666666666667
+4,Private room in casa particular,300.0
+4,Private room in condominium (condo),69.0
+4,Private room in guest suite,281.6666666666667
+4,Private room in guesthouse,210.0
+4,Private room in ranch,300.0
+4,Private room in rental unit,329.0
+4,Private room in residential home,222.0
+4,Private room in resort,725.0
+4,Private room in serviced apartment,300.0
+4,Private room in townhouse,950.0
+4,Private room in villa,325.3333333333333
+4,Room in aparthotel,393.3333333333333
+4,Room in boutique hotel,405.0
+4,Room in hotel,290.0
+4,Tiny house,550.0
+5,Barn,1500.0
+5,Camper/RV,800.0
+5,Casa particular,240.0
+5,Earth house,1700.0
+5,Entire bungalow,400.0
+5,Entire chalet,1399.6666666666667
+5,Entire condominium (condo),323.3333333333333
+5,Entire guesthouse,495.0
+5,Entire loft,733.3333333333334
+5,Entire rental unit,441.8611111111111
+5,Entire residential home,2010.5
+5,Entire serviced apartment,518.2857142857143
+5,Entire villa,1987.4
+5,Farm stay,339.5
+5,Holiday park,1400.0
+5,Hut,1100.0
+5,Private room in chalet,3000.0
+5,Private room in condominium (condo),335.0
+5,Private room in guest suite,450.0
+5,Private room in loft,2250.0
+5,Private room in rental unit,185.0
+5,Private room in resort,2500.0
+5,Private room in serviced apartment,304.5
+5,Private room in tiny house,100.0
+5,Ranch,1500.0
+5,Room in aparthotel,247.0
+6,Earth house,560.0
+6,Entire chalet,702.2631578947369
+6,Entire condominium (condo),222.0
+6,Entire guesthouse,500.0
+6,Entire loft,316.6666666666667
+6,Entire rental unit,346.14285714285717
+6,Entire residential home,643.3333333333334
+6,Entire villa,1852.0
+6,Farm stay,844.8
+6,Private room in farm stay,488.5
+6,Private room in rental unit,120.0
+6,Private room in resort,450.0
+6,Room in aparthotel,300.0
+6,Shared room in chalet,400.0
+6,Shared room in tent,94.0
+6,Tiny house,600.0
+7,Barn,1250.0
+7,Entire chalet,740.0
+7,Entire cottage,1266.0
+7,Entire rental unit,708.6666666666666
+7,Farm stay,1155.5
+7,Private room in hostel,432.0
+7,Private room in loft,160.0
+7,Room in aparthotel,200.0
+8,Farm stay,600.0
+9,Entire rental unit,300.0
+9,Private room in rental unit,200.0
+10,Shared room in bed and breakfast,85.0

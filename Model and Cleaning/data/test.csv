@@ -1,0 +1,193 @@
+province,house_type,id
+1,Campsite,1
+1,Cycladic house,1
+1,Entire bungalow,4
+1,Entire cabin,3
+1,Entire chalet,18
+1,Entire condominium (condo),39
+1,Entire guest suite,2
+1,Entire guesthouse,1
+1,Entire loft,24
+1,Entire place,1
+1,Entire rental unit,357
+1,Entire residential home,10
+1,Entire serviced apartment,48
+1,Entire townhouse,4
+1,Entire villa,37
+1,Farm stay,4
+1,Hut,1
+1,Private room,1
+1,Private room in bed and breakfast,3
+1,Private room in casa particular,1
+1,Private room in chalet,2
+1,Private room in condominium (condo),5
+1,Private room in earth house,1
+1,Private room in guest suite,2
+1,Private room in guesthouse,1
+1,Private room in hostel,1
+1,Private room in loft,2
+1,Private room in rental unit,13
+1,Private room in residential home,4
+1,Private room in resort,3
+1,Private room in serviced apartment,4
+1,Private room in villa,3
+1,Riad,1
+1,Room in aparthotel,7
+1,Room in boutique hotel,1
+1,Room in hotel,23
+1,Shared room in rental unit,2
+1,Tiny house,2
+2,Barn,1
+2,Camper/RV,1
+2,Campsite,5
+2,Casa particular,6
+2,Earth house,5
+2,Entire bungalow,1
+2,Entire chalet,45
+2,Entire condominium (condo),32
+2,Entire cottage,3
+2,Entire guest suite,13
+2,Entire guesthouse,4
+2,Entire home/apt,1
+2,Entire loft,16
+2,Entire place,5
+2,Entire rental unit,397
+2,Entire residential home,7
+2,Entire serviced apartment,50
+2,Entire townhouse,1
+2,Entire villa,16
+2,Farm stay,16
+2,Holiday park,4
+2,Private room in bed and breakfast,3
+2,Private room in bungalow,1
+2,Private room in casa particular,2
+2,Private room in chalet,4
+2,Private room in condominium (condo),1
+2,Private room in earth house,1
+2,Private room in farm stay,1
+2,Private room in guest suite,2
+2,Private room in rental unit,19
+2,Private room in residential home,1
+2,Private room in resort,11
+2,Private room in serviced apartment,4
+2,Private room in tent,1
+2,Private room in tiny house,1
+2,Ranch,1
+2,Riad,1
+2,Room in aparthotel,15
+2,Room in boutique hotel,4
+2,Room in hotel,7
+2,Shared room in bed and breakfast,2
+2,Shared room in condominium (condo),1
+2,Shared room in farm stay,1
+2,Shared room in rental unit,2
+2,Tent,4
+2,Tiny house,4
+3,Camper/RV,1
+3,Entire bungalow,1
+3,Entire chalet,7
+3,Entire condominium (condo),10
+3,Entire guesthouse,1
+3,Entire loft,6
+3,Entire place,2
+3,Entire rental unit,65
+3,Entire residential home,3
+3,Entire serviced apartment,36
+3,Entire villa,1
+3,Farm stay,2
+3,Lighthouse,1
+3,Private room in condominium (condo),4
+3,Private room in guest suite,4
+3,Private room in loft,1
+3,Private room in rental unit,19
+3,Private room in residential home,3
+3,Private room in resort,3
+3,Private room in serviced apartment,8
+3,Private room in townhouse,1
+3,Private room in villa,1
+3,Room in aparthotel,7
+3,Room in hotel,2
+3,Shared room in rental unit,3
+3,Shared room in residential home,1
+4,Camper/RV,1
+4,Campsite,1
+4,Earth house,1
+4,Entire chalet,9
+4,Entire condominium (condo),4
+4,Entire guest suite,2
+4,Entire guesthouse,2
+4,Entire loft,1
+4,Entire rental unit,53
+4,Entire residential home,1
+4,Entire serviced apartment,7
+4,Entire villa,15
+4,Farm stay,6
+4,Private room in casa particular,1
+4,Private room in condominium (condo),1
+4,Private room in guest suite,3
+4,Private room in guesthouse,3
+4,Private room in ranch,1
+4,Private room in rental unit,8
+4,Private room in residential home,3
+4,Private room in resort,4
+4,Private room in serviced apartment,1
+4,Private room in townhouse,1
+4,Private room in villa,3
+4,Room in aparthotel,3
+4,Room in boutique hotel,2
+4,Room in hotel,4
+4,Tiny house,2
+5,Barn,1
+5,Camper/RV,1
+5,Casa particular,2
+5,Earth house,3
+5,Entire bungalow,1
+5,Entire chalet,3
+5,Entire condominium (condo),3
+5,Entire guesthouse,6
+5,Entire loft,6
+5,Entire rental unit,36
+5,Entire residential home,2
+5,Entire serviced apartment,7
+5,Entire villa,5
+5,Farm stay,2
+5,Holiday park,1
+5,Hut,2
+5,Private room in chalet,1
+5,Private room in condominium (condo),1
+5,Private room in guest suite,1
+5,Private room in loft,1
+5,Private room in rental unit,2
+5,Private room in resort,1
+5,Private room in serviced apartment,2
+5,Private room in tiny house,1
+5,Ranch,1
+5,Room in aparthotel,2
+6,Earth house,5
+6,Entire chalet,19
+6,Entire condominium (condo),1
+6,Entire guesthouse,1
+6,Entire loft,3
+6,Entire rental unit,7
+6,Entire residential home,3
+6,Entire villa,4
+6,Farm stay,5
+6,Private room in farm stay,2
+6,Private room in rental unit,1
+6,Private room in resort,3
+6,Room in aparthotel,1
+6,Shared room in chalet,1
+6,Shared room in tent,1
+6,Tiny house,1
+7,Barn,1
+7,Entire chalet,2
+7,Entire cottage,1
+7,Entire rental unit,3
+7,Farm stay,2
+7,Private room in hostel,1
+7,Private room in loft,1
+7,Room in aparthotel,1
+8,Farm stay,1
+9,Entire rental unit,1
+9,Private room in rental unit,1
+10,Shared room in bed and breakfast,1
